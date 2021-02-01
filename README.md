@@ -10,3 +10,7 @@ I decided to start this challenge so it will keep me motivated. I started with a
 - started python
 - learned print,input,strings and made a repl.it account where I wrote my code
 - made a Band Name Generator that combines two inputs to make a band name
+### Day 2
+- learned all types of variables
+- learned to convert them
+- made a Tip Calculator where I split the bill to x people with a y% of a tip
