@@ -14,3 +14,7 @@ I decided to start this challenge so it will keep me motivated. I started with a
 - learned all types of variables
 - learned to convert them
 - made a Tip Calculator where I split the bill to x people with a y% of a tip
+### Day 3
+- learned booleans
+- I think I learned to perfections the if elif else conditions also the and or and not
+- made a story driven game - choose your story baiscly, built with a lot of if and else statements
